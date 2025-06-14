@@ -9,17 +9,12 @@
     "H4BasicMod_Hash":"7de22550f36cd4f826d92e1bcfaff8eb",
     "H4BasicMod_releaseNotes": "补全了格挡特：\n秩序-古鲁姆  混乱-卡里斯塔 自然-瑟利图斯\n新增特长-药剂师:\n秩序-格维林 秩序-米娜斯丽，自带4种药水魔法。",
 
-    "H4desMod_latestVersion": "HeroDescription_mod.h4r",
-    "H4desMod_downloadUrl": "https://gitee.com/akicscarlet/test/releases/download/HeroDescription_mod.h4r/HeroDescription_mod.h4r",
-    "H4desMod_Hash":"47a17def56b1684e83d4def4494f6d63",
-    "H4desMod_releaseNotes": "补全了格挡特：\n秩序-古鲁姆  混乱-卡里斯塔 自然-瑟利图斯\n新增特长-药剂师:\n秩序-格维林 秩序-米娜斯丽\n等英雄特长文本描述。\n下载后记得放在游戏目录里的data目录下。",
-
     "res_mod_Hash": "cd7745a49c383b23eb4423ec33f8cd04",
     "res_mod_downloadUrl": "https://github.com/Akic-Scarlet/haha/releases/download/res_mod/res_mod.h4r",
 
 
     "bes_mod_Hash": "89e2c2fcf10a42a78305d6786d1e6f3b",
-    "bes_mod_downloadUrl": "https://gitee.com/akicscarlet/test/releases/download/Bes_mod.h4r/Bes_mod.h4r"
+    "bes_mod_downloadUrl": "https://github.com/Akic-Scarlet/haha/releases/download/bes_mod/bes_mod.h4r"
 
 
 
