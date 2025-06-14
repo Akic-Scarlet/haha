@@ -1,5 +1,26 @@
 {
-    "latestVersion": "1.2.0",
-    "downloadUrl": "https://github.com/username/repo/releases/download/v1.2.0/GameUpdate.zip",
-    "releaseNotes": "修复了若干bug，优化了性能。"
+    "H4Launcher_latestVersion": "Basic_H4Launcher v1.03 .zip",
+    "H4Launcher_downloadUrl": "https://gitee.com/akicscarlet/test/releases/download/Basic_H4Launcher/Basic_H4Launcher.zip",
+    "H4Launcher_Hash":"d12d364347b61c2c32eff90c67c6978e",
+    "H4Launcher_releaseNotes": "修复了若干bug，优化了性能。",
+    
+    "H4BasicMod_latestVersion": "Basic v0.82A .zip",
+    "H4BasicMod_downloadUrl": "https://gitee.com/akicscarlet/test/releases/download/BasicMod/BasicMOD.rar",
+    "H4BasicMod_Hash":"0e2d6e0e8510a19ab0d15f81e9e99335",
+    "H4BasicMod_releaseNotes": "补全了格挡特：\n秩序-古鲁姆  混乱-卡里斯塔 自然-瑟利图斯\n新增特长-药剂师:\n秩序-格维林 秩序-米娜斯丽，自带4种药水魔法。",
+
+    "H4desMod_latestVersion": "HeroDescription_mod.h4r",
+    "H4desMod_downloadUrl": "https://gitee.com/akicscarlet/test/releases/download/HeroDescription_mod.h4r/HeroDescription_mod.h4r",
+    "H4desMod_Hash":"47a17def56b1684e83d4def4494f6d63",
+    "H4desMod_releaseNotes": "补全了格挡特：\n秩序-古鲁姆  混乱-卡里斯塔 自然-瑟利图斯\n新增特长-药剂师:\n秩序-格维林 秩序-米娜斯丽\n等英雄特长文本描述。\n下载后记得放在游戏目录里的data目录下。",
+
+    "res_mod_Hash": "cd7745a49c383b23eb4423ec33f8cd04",
+    "res_mod_downloadUrl": "https://gitee.com/akicscarlet/test/releases/download/res_mod.h4r/res_mod.h4r",
+
+
+    "bes_mod_Hash": "89e2c2fcf10a42a78305d6786d1e6f3b",
+    "bes_mod_downloadUrl": "https://gitee.com/akicscarlet/test/releases/download/Bes_mod.h4r/Bes_mod.h4r"
+
+
+
 }
