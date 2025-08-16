@@ -5,11 +5,12 @@
      "H4Launcher_Version": "1.05",
     "H4Launcher_releaseNotes": "first!!!",
     
-    "H4BasicMod_latestVersion": "Basic v0.82 .rar",
+    "H4BasicMod_latestVersion": "Basic v0.832 .rar",
     "H4BasicMod_downloadUrl": "https://github.com/Akic-Scarlet/haha/releases/download/EN_Heroes4BasicMOD/EN_Heroes4_Basic_MOD.rar",
-        "H4BasicMod_Version": "0.831",
+        "H4BasicMod_Version": "0.832",
     "H4BasicMod_Hash":"7de22550f36cd4f826d92e1bcfaff8eb",
     "H4BasicMod_releaseNotes": "1.Heroes\nUpdated eight heroes' Specialties, an additional three heroes affected by new Specialties, a faction heroes get buffed, a new hero joined this game\n2.New System\n1)Weapon System - There are Three types Weapon Mastery, Axe Mastery, Sword Mastery, and Hammer Mastery.\nThese different weapons will provide extra Max-Dmg when particular heroes are equipped with them.\n2)Shield System - There are Five Level Shields (Lv. 0-Lv. 4), these Shields will provide [Block Ability] to Barbarians and Block Specialty Hero, the Block chance is based on Shield Level.\n3.Artifacts\nLions Shield Of Courage - Will Grants this hero a buff\n4.Spell\nChain Lightning - The damage will half-decrease with each jump->never decreases anymore!\n5.Game Launcher\nThis is first version of Homm4 Launcher, integrating functions for easier handling. Providing two languages(Simplified Chinese and English)\n\n You can check more updated details in the Discord Server.",
 
-
+    "BasicGame_downloadUrl": "https://streamshare.wireway.ch/download/v7hgrdk0"
 }
+
