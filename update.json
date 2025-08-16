@@ -1,9 +1,9 @@
 {
-    "H4Launcher_latestVersion": "Basic_H4Launcher v1.04 .zip",
+    "H4Launcher_latestVersion": "Basic_H4Launcher v1.07 .zip",
     "H4Launcher_downloadUrl": "https://github.com/Akic-Scarlet/haha/releases/download/Basic_H4Launcher/Basic_H4Launcher.zip",
-    "H4Launcher_Hash":"d5b5929094c42b3610f2479a003f57da",
-     "H4Launcher_Version": "1.05",
-    "H4Launcher_releaseNotes": "first!!!",
+    "H4Launcher_Hash":"fe4dc286763477714f3a3dd2f46fa05b",
+     "H4Launcher_Version": "1.07",
+    "H4Launcher_releaseNotes": "Custom Hero Specialty System!!!",
     
     "H4BasicMod_latestVersion": "Basic v0.832 .rar",
     "H4BasicMod_downloadUrl": "https://github.com/Akic-Scarlet/haha/releases/download/EN_Heroes4BasicMOD/EN_Heroes4_Basic_MOD.rar",
@@ -13,4 +13,5 @@
 
     "BasicGame_downloadUrl": "https://streamshare.wireway.ch/download/v7hgrdk0"
 }
+
 
