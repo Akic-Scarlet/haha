@@ -9,9 +9,10 @@
     "H4BasicMod_downloadUrl": "https://streamshare.wireway.ch/download/34hp1w57",
         "H4BasicMod_Version": "0.832",
     "H4BasicMod_Hash":"9d11e384b33491a8fa5a887408a17e40",
-  "H4BasicMod_releaseNotes": "1.Heroes\nWe added 11 Specialty Heroes, and 6 new Specialties:\n1)Complet "
+  "H4BasicMod_releaseNotes": "1.Heroes\nWe added 11 Specialty Heroes, and 6 new Specialties:\n1)Completed Block Specialty hero in all factions\n1)Normal Necromancy Specialty\n2)Special Necromancy Specialty\n\n3)Potion Specialty - Starting Spells:4 potion spells(Cold Resistance, Fire Resistance, Strength, Speed)\n4)Charm Specialty - Charm EXP +2.5% * Hero_Level\n\nOther Specialty Heroes:\n1)Baron Von Tarkin - Increase the effectiveness of Death spells by 50%\n2)Mysterio - Starting Spells:Immortality potion(can cast on adventure map); Increase the effectiveness of Order spells by 50%\n3)Emilia - Increase the effectiveness of Illusion Spells by 2.5% per level\n\nOther Specialty Changed:\nGold Specialty - Produces gold 100*Hero_Level pre day -> 350+100*(Hero_Level-1)\n"，
     "BasicGame_downloadUrl": "https://streamshare.wireway.ch/download/v7hgrdk0"
 }
+
 
 
 
