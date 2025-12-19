@@ -1,9 +1,9 @@
 {
-    "H4Launcher_latestVersion": "Basic_H4Launcher v1.08 .rar",
+    "H4Launcher_latestVersion": "Basic_H4Launcher v1.10 .rar",
     "H4Launcher_downloadUrl": "https://github.com/Akic-Scarlet/haha/releases/download/Basic_H4Launcher/Basic_H4Launcher.rar",
-    "H4Launcher_Hash": "b42bf6b4b986e9d0f6439d20cbe7d303",
-    "H4Launcher_Version": "1.08",
-    "H4Launcher_releaseNotes": "Now you can Synchronize the Hero Descriptions (including Specialty And Custom Specialty) to the game!!!",
+    "H4Launcher_Hash": "98d527b79970e7c537bda8f9679bce66",
+    "H4Launcher_Version": "1.10",
+    "H4Launcher_releaseNotes": "Fixed the issue that H4Launcher threw the exception 'neterror' leading to update function failure when the H4ms.dll doesn't exist in the game directory",
     
     "H4BasicMod_latestVersion": "Basic v0.832 .rar",
     "H4BasicMod_downloadUrl": "https://streamshare.wireway.ch/download/34hp1w57",
@@ -13,6 +13,7 @@
   
     "BasicGame_downloadUrl": "https://streamshare.wireway.ch/download/euol1ak3"
 }
+
 
 
 
