@@ -3,7 +3,7 @@
     "H4Launcher_downloadUrl": "https://github.com/Akic-Scarlet/haha/releases/download/Basic_H4Launcher/Basic_H4Launcher.rar",
     "H4Launcher_Hash": "98d527b79970e7c537bda8f9679bce66",
     "H4Launcher_Version": "1.12",
-    "H4Launcher_releaseNotes": "Added custom icon support for creatures, spells, and artifacts in H4ModEditor; 2. Added a search bar feature; 3. Added data backup functionality; 4. Added resource icon download functionality; 5. Mod data export now supports images and remains compatible with legacy data exports.",
+    "H4Launcher_releaseNotes": "Added custom icon support for creatures, spells, and artifacts in H4ModEditor\n 2. Added a search bar feature\n3. Added data backup functionality\n4. Added resource icon download functionality\n 5. Mod data export now supports images and remains compatible with legacy data exports.",
     
     "H4BasicMod_latestVersion": "Basic v0.832 .rar",
     "H4BasicMod_downloadUrl": "https://streamshare.wireway.ch/download/34hp1w57",
